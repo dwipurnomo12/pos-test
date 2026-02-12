@@ -25,11 +25,14 @@ Follow these steps to get the project up and running on your local machine:
     ```
 
 3.  **Setup Database:**
-    STUDENT 24 - DATABASE CREDENTIALS
-    _ Host: 192.168.247.250
-    _ Port: 15432
-    _ Database: northwind_student24
-    _ Username: student24 \* Password: pass24
+
+````bash
+     STUDENT 24 - DATABASE CREDENTIALS
+     _ Host: 192.168.247.250
+     _ Port: 15432
+     _ Database: northwind_student24
+     _ Username: student24 \* Password: pass24
+ ```
 
 ## Running the Application
 
@@ -38,4 +41,4 @@ Start the local development server using the Artisan command:
 ```bash
 php artisan serve
 
-```
+````
